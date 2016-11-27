@@ -13,6 +13,7 @@
 		94CC50121DEA61AB001A5057 /* RecordMyFamily.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 94CC50101DEA61AB001A5057 /* RecordMyFamily.xcdatamodeld */; };
 		94CC50141DEA61AB001A5057 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94CC50131DEA61AB001A5057 /* Assets.xcassets */; };
 		94CC50171DEA61AB001A5057 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94CC50151DEA61AB001A5057 /* LaunchScreen.storyboard */; };
+		94CC501F1DEA8B63001A5057 /* FamilySoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94CC501E1DEA8B63001A5057 /* FamilySoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		94CC50131DEA61AB001A5057 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94CC50161DEA61AB001A5057 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94CC50181DEA61AB001A5057 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94CC501E1DEA8B63001A5057 /* FamilySoundViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FamilySoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				94CC50091DEA61AB001A5057 /* AppDelegate.swift */,
 				94CC500B1DEA61AB001A5057 /* ViewController.swift */,
+				94CC501E1DEA8B63001A5057 /* FamilySoundViewController.swift */,
 				94CC500D1DEA61AB001A5057 /* Main.storyboard */,
 				94CC50131DEA61AB001A5057 /* Assets.xcassets */,
 				94CC50151DEA61AB001A5057 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94CC501F1DEA8B63001A5057 /* FamilySoundViewController.swift in Sources */,
 				94CC500C1DEA61AB001A5057 /* ViewController.swift in Sources */,
 				94CC50121DEA61AB001A5057 /* RecordMyFamily.xcdatamodeld in Sources */,
 				94CC500A1DEA61AB001A5057 /* AppDelegate.swift in Sources */,
